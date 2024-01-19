@@ -1,0 +1,14 @@
+c:\Users\beyza\Desktop\.NET-Core\Baslangic-Patikasi\C# Projeleri\DaireCizme\bin\Debug\net8.0\DaireCizme.exe
+c:\Users\beyza\Desktop\.NET-Core\Baslangic-Patikasi\C# Projeleri\DaireCizme\bin\Debug\net8.0\DaireCizme.deps.json
+c:\Users\beyza\Desktop\.NET-Core\Baslangic-Patikasi\C# Projeleri\DaireCizme\bin\Debug\net8.0\DaireCizme.runtimeconfig.json
+c:\Users\beyza\Desktop\.NET-Core\Baslangic-Patikasi\C# Projeleri\DaireCizme\bin\Debug\net8.0\DaireCizme.dll
+c:\Users\beyza\Desktop\.NET-Core\Baslangic-Patikasi\C# Projeleri\DaireCizme\bin\Debug\net8.0\DaireCizme.pdb
+c:\Users\beyza\Desktop\.NET-Core\Baslangic-Patikasi\C# Projeleri\DaireCizme\obj\Debug\net8.0\DaireCizme.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\beyza\Desktop\.NET-Core\Baslangic-Patikasi\C# Projeleri\DaireCizme\obj\Debug\net8.0\DaireCizme.AssemblyInfoInputs.cache
+c:\Users\beyza\Desktop\.NET-Core\Baslangic-Patikasi\C# Projeleri\DaireCizme\obj\Debug\net8.0\DaireCizme.AssemblyInfo.cs
+c:\Users\beyza\Desktop\.NET-Core\Baslangic-Patikasi\C# Projeleri\DaireCizme\obj\Debug\net8.0\DaireCizme.csproj.CoreCompileInputs.cache
+c:\Users\beyza\Desktop\.NET-Core\Baslangic-Patikasi\C# Projeleri\DaireCizme\obj\Debug\net8.0\DaireCizme.dll
+c:\Users\beyza\Desktop\.NET-Core\Baslangic-Patikasi\C# Projeleri\DaireCizme\obj\Debug\net8.0\refint\DaireCizme.dll
+c:\Users\beyza\Desktop\.NET-Core\Baslangic-Patikasi\C# Projeleri\DaireCizme\obj\Debug\net8.0\DaireCizme.pdb
+c:\Users\beyza\Desktop\.NET-Core\Baslangic-Patikasi\C# Projeleri\DaireCizme\obj\Debug\net8.0\DaireCizme.genruntimeconfig.cache
+c:\Users\beyza\Desktop\.NET-Core\Baslangic-Patikasi\C# Projeleri\DaireCizme\obj\Debug\net8.0\ref\DaireCizme.dll
